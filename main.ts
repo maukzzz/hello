@@ -1,4 +1,4 @@
-basic.showString("Mauk's place!")
+basic.showString("Mauk")
 basic.forever(function () {
 	
 })
